@@ -3,8 +3,8 @@ Very simple landing page that I created using HTML/CSS. I used mailchimp for the
 
 ### Screenshots
 <div align="center">
-    <img src="https://github.com/ajaybasra/Email-Client/blob/main/screenshots/Screen%20Shot%202021-11-21%20at%201.44.05%20PM.png">
-    <img src="https://github.com/ajaybasra/Email-Client/blob/main/screenshots/Screen%20Shot%202021-11-21%20at%201.44.47%20PM.png">
+    <img src="https://github.com/ajaybasra/Landing-Page/blob/main/screenshots/Screen%20Shot%202022-01-17%20at%2012.25.45%20PM.png">
+    <img src="https://github.com/ajaybasra/Landing-Page/blob/main/screenshots/Screen%20Shot%202022-01-17%20at%2012.26.05%20PM.png">
 </div>
 
 ### Requirements 🔧
